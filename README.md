@@ -2,6 +2,10 @@
 # Sinh viên: Nguyễn Khánh Duy - K225480106008
 # BTVN 02
 # Bài làm
+## Vẽ tay DB
+
+<img width="974" height="557" alt="image" src="https://github.com/user-attachments/assets/7c042532-287e-44e0-a4b5-7c4342fcc7c0" />
+
 ## 1. TẠO THƯ MỤC VÀ DOCKER
 SSH sang vs code edit cho dễ
 
