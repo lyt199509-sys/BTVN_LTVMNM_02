@@ -58,7 +58,9 @@ DATABASES = {
 3. LỆNH ĐỒNG BỘ CSDL (Terminal)
 
 docker compose exec web python manage.py makemigrations pawn_app
+
 docker compose exec web python manage.py migrate
+
 docker compose exec web python manage.py createsuperuser
 
 Tài khoản: root, pw: khanhduy2004
