@@ -63,7 +63,7 @@ docker compose exec web python manage.py migrate
 
 docker compose exec web python manage.py createsuperuser
 
-Tài khoản: root, pw: khanhduy2004
+Tài khoản: duy, pw: khanhduy2004
 
 ## 4. Tích hợp giao diện và URL
 1. Code FILE VIEWS (pawn_app/views.py)
