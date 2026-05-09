@@ -65,6 +65,8 @@ docker compose exec web python manage.py createsuperuser
 
 Tài khoản: duy, pw: khanhduy2004
 
+Đăng nhập local để kiểm tra: <img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/e0787425-3591-4202-896a-38307c5da98a" />
+
 ## 4. Tích hợp giao diện và URL
 1. Code FILE VIEWS (pawn_app/views.py)
 
