@@ -65,7 +65,8 @@ docker compose exec web python manage.py createsuperuser
 
 Tài khoản: duy, pw: khanhduy2004
 
-Đăng nhập local để kiểm tra: <img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/e0787425-3591-4202-896a-38307c5da98a" />
+Đăng nhập local để kiểm tra: 
+<img width="1919" height="604" alt="image" src="https://github.com/user-attachments/assets/45020410-ef5d-4218-ae81-4f7b967a59e8" />
 
 ## 4. Tích hợp giao diện và URL
 1. Code FILE VIEWS (pawn_app/views.py)
@@ -94,7 +95,7 @@ Truy cập bằng Ip_máy_server với các port sau:
 
 8002/admin(Kiểm tra Django): 
 
-<img width="1919" height="604" alt="image" src="https://github.com/user-attachments/assets/45020410-ef5d-4218-ae81-4f7b967a59e8" />
+<img width="1919" height="646" alt="image" src="https://github.com/user-attachments/assets/e0787425-3591-4202-896a-38307c5da98a" />
 
 8082(kiểm tra phpadmin): 
 
